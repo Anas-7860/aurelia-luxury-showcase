@@ -189,19 +189,26 @@ export interface Product {
 
 ## Getting Started
 
-1. **Install dependencies** (if you haven't already):
+1. **Clone the repository**:
 
-	 ```bash
-	 npm install
-	 ```
+	```bash
+	git clone https://github.com/Anas-7860/aurelia-luxury-showcase.git
+	cd aurelia-luxury-showcase
+	```
 
-2. **Run the development server**:
+2. **Install dependencies**:
 
-	 ```bash
-	 npm run dev
-	 ```
+	```bash
+	npm install
+	```
 
-3. Open `http://localhost:3000` in your browser.
+3. **Run the development server**:
+
+	```bash
+	npm run dev
+	```
+
+4. Open `http://localhost:3000` in your browser.
 
 The app uses Turbopack by default with the current Next.js version. All routes are purely frontend and rely on static data.
 
