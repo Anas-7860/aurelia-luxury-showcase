@@ -2,14 +2,19 @@
 
 AURELIA is a frontend-only, luxury perfume brand showcase built with Next.js (App Router), TypeScript, and Tailwind CSS v4. The focus is on architecture, spacing discipline, and a restrained, premium visual language rather than on backend features.
 
-The brand tone is minimal, confident, and quiet: "For those who do not need an intorduction"
+The brand tone is minimal, confident, and quiet: "For those who do not need an introduction"
+
+## Links
+
+- Live site: https://aurelia-luxury.vercel.app/
+- GitHub repository: https://github.com/Anas-7860/aurelia-luxury-showcase
 
 ---
 
 ## Brand & Experience
 
 - **Name**: AURELIA  
-- **Tagline**: "For those who do not need an intorduction
+- **Tagline**: "For those who do not need an introduction"
 - **Tone**: Minimal, refined, serious. Luxury is expressed through whitespace, typography, and structure rather than visual noise.
 
 The site is designed as a calm, gallery-like environment:
